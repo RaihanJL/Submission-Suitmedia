@@ -9,6 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "homepage": "https://tasyaramaniya.github.io/suitmedia-test",
   "proxy": "http://localhost:5173",
   "dependencies": {
     "axios": "^1.6.2",
